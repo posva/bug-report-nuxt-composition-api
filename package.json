@@ -12,12 +12,14 @@
   },
   "dependencies": {
     "@nuxtjs/composition-api": "^0.23.4",
-    "@vue/composition-api": "1.0.0-rc.8",
     "nuxt": "^2.15.0",
     "pinia": "^0.5.1"
   },
   "devDependencies": {
     "typescript": "^4.2.4"
+  },
+  "resolutions": {
+    "@vue/composition-api": "1.0.0-rc.8"
   },
   "keywords": []
 }
