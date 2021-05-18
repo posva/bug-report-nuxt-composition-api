@@ -1,0 +1,23 @@
+{
+  "name": "pinia-adding-new-state",
+  "version": "1.0.0",
+  "description": "Issue of ref unwrapping as discussed in https://github.com/posva/pinia/discussions/497",
+  "author": "Nuxt.js Team",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/composition-api": "^0.23.4",
+    "@vue/composition-api": "1.0.0-rc.8",
+    "nuxt": "^2.15.0",
+    "pinia": "^0.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "keywords": []
+}
